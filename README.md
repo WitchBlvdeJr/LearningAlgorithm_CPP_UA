@@ -74,28 +74,32 @@ A standing ovation to the orchestrators who've lent their expertise to elevate t
 
 The voyage into algorithms and data structures using C++ awaits! Progress through the roadmap, celebrate your victories, and let the crescendo of learning echo in eternity. You're not just learning; you're composing your destiny! 🎼
 
-# Aditional information! (learning resources)
+-
+-
+- 
+
+### Aditional information! (learning resources)
 
 ###### C++ (ISO)
         1. C++11 http://sergeyteplyakov.blogspot.com/2012/05/c-11-faq.html
         2. C++20/17/14/11 features: https://github.com/AnthonyCalandra/modern-cpp-features
 
-   ##### There is great power in simplicity!
+  ##### There is great power in simplicity!
          learning resourses https://www.learncpp.com/
 
-  ## Now let's look at the tools that will be useful in your work and that you should pay attention to first:
+  ##### Now let's look at the tools that will be useful in your work and that you should pay attention to first:
   
-  #### What do I know from this list (https://github.com/fffaraz/awesome-cpp)   
-    1.
-    2.
-    3.
+  ###### What do I know from this list (https://github.com/fffaraz/awesome-cpp)   
+        1.
+        2.
+        3.
   
-  ## Build systems:
+  ##### Build systems:
         1. Cmake
         2. Makefile
         3 .vcpkg (I don't know, but it significantly simplifies the build process)
 
-## Must have knowladge!
+##### Must have knowladge!
  
         - Mandatory knowledge:
 
