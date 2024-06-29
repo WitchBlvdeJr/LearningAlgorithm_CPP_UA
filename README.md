@@ -8,10 +8,10 @@ Follow our meticulously designed roadmap to navigate through the enchanting real
 
 ### Level 1: 🌱 C++ Basics
 - [x] Introduction to the Symphony of C++ Syntax and Concepts 🎵
-- [x] Choreography of Variables, Data Types, and Operators 💃
-- [x] Dance of Control Structures: If, Else, Loops 🕺
-- [x] Harmonizing Functions and Basic Input/Output 🎼
-- [x] Pointers: Navigating the Melodies of Memory 🎹
+- [ ] Choreography of Variables, Data Types, and Operators 💃
+- [ ] Dance of Control Structures: If, Else, Loops 🕺
+- [ ] Harmonizing Functions and Basic Input/Output 🎼
+- [ ] Pointers: Navigating the Melodies of Memory 🎹
 
 ### Level 2: 🌿 Data Structures Fundamentals
 - [ ] Arrays and Vectors: Orchestrating Data 🎻
@@ -19,7 +19,7 @@ Follow our meticulously designed roadmap to navigate through the enchanting real
 - [ ] Stacks and Queues: The Balancing Act 🎭
 - [ ] Recursion: Unraveling the Recursive Symphony 🎻
 - [ ] Time and Space Complexity: Mastering the Performance Ballet 💃
-
+ 
 ### Level 3: 🍃 Sorting and Searching
 - [ ] Bubble, Insertion, and Selection Sort: Sorting Serenade 🎶
 - [ ] Merge Sort and Quicksort: Dividing and Conquering 🎵
