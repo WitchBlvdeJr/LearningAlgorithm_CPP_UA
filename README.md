@@ -1,6 +1,5 @@
 ## Learning Roadmap youtube bloger by @yuriorkis_scream🗺️
 
-Follow our meticulously designed roadmap to navigate through the enchanting realms of algorithms and data structures, all while harnessing the elegance of C++. As you conquer each milestone, don't forget to check the boxes and watch your progress unfold.
 
 ### Level 1: 🌱 Основы синтаксиса и арифметика
 - [x] Арифметические операции 🎵
