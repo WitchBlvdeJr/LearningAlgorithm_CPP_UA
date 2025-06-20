@@ -63,10 +63,8 @@
  
 
 ## ### Aditional information! (learning resources)  🤝
-- Лучшие курсы по С++ на ютубе - https://www.youtube.com/@yuriorkis_scream
+- курсы по С++ на ютубе - https://www.youtube.com/@yuriorkis_scream
 - Достойная инфа по С++ - https://ravesli.com/
 - Задачи до ООП - https://informatics.msk.ru
 - Задачи после ООП - https://leetcode.com/
-- Задачи на моб - https://stepik.org/course/363/promo
-- вопросы на собесе - https://www.guru99.com/ru/cpp-interview-questions.html
 
